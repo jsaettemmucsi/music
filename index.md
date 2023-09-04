@@ -32,10 +32,24 @@
 - Light
 - Uniform Noise Part V
 - Kaisho
-- Hold Your Tears
 
 # 1999
 - Addicted
+- 4
+- Armament
+- Bad Cough
+- Blow
+- Cranked Mind
+- Dead Cow
+- Desert Realm
+- Disorder
+- Emit Light
+- Hold Your Tears
+- Locust
+- Lord of the Stars
+- Pearl River
+- Sugar Basin
+- Wiped Dream
 
 # 2000
 - Bat
