@@ -57,8 +57,51 @@ _Gävle & Tranås_
 # 2000
 _Tranås_
 1. Bat
-1. Iron knight!
-1. soundEvotion Compo 1
+2. Iron knight!
+3. SoundEvotion Compo 1
+4. Sounds from Beizeiten II
+5. Trop Mal
+6. 2
+7. 10
+8. 11
+9. 13
+8. 16
+9. 16 crimzon mix
+10. 16 maim mix
+11. 16 m2
+12. 21
+13. 23
+14. 24
+15. 111
+16. Aa
+17. AITS
+18. Asda2
+19. B1
+20. B2
+21. B3
+22. B5
+23. B6
+24. Bla
+25. Chord
+26. Chorus
+27. Cold
+28. Come Back
+29. D10
+30. D11
+31. D13
+32. D14
+33. D15
+34. Dead Cow (Crimson Remix)
+35. Dloop
+36. DOT
+37. e2
+38. Fairminded
+39. Mintomatic
+40. Joedah
+41. Joonkar
+42. Keep Out
+43. Kel
+44. Kestrel
 
 # 2001
 _Tranås & Sveg_
