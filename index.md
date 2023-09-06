@@ -175,7 +175,8 @@ _Tranås & Sveg_
 19. midgeteer / 1
 20. midgeteer / 2
 21. The Apotheosis of Inharmonious Endeavours
-
+1. Spleen
+2. 
 # 2002
 _Sveg_
 1. Last Minute
@@ -208,12 +209,110 @@ _Sveg_
 
 # 2006 
 _Sveg_
+2. Basi2s
+4. Basis2
+5. Club
+6. Flips2
+1. Flips3
+8. Toifel
+
 # 2007 
 _Sveg_
+1. Grace Valhalla - Psychopathetic (jzm remix)
+2. jzm - 
+
 # 2008 
 _Sveg_
+
 # 2009 
 _Sveg_
+1. 3
+2. Kelly Rose - Young Happy Sad Gray (maim)
+3. Clip 426 2_3
+4. Docile
+5. yyy
+6. 2
+7. 2_2
+8. 4
+9. Electro Collective - Nagarashmi
+10. ELectro Collective - Pramodh
+11. Electro Collective - Pramodh 2
+12. Enigma
+13. Beat
+14. Ghosts
+15. Ghosts 2
+16. Ghosts 3
+17. Kek
+18. Kelly 3
+19. Ne
+20. Pawz
+21. Pawz 2
+22. Pawz 3
+23. Pawz 3_1
+24. Prawnz
+25. Song 1
+26. Song 3
+27. Song 4
+1. Song 5
+2. Song 6
+3. Song 7
+4. Song 8
+5. Song 9
+6. Song 21
+7. Song 22
+8. Song 23
+9. Song 24
+10. Song 25
+11. Song 26
+12. Song 27
+13. Song 28
+14. Song 30
+15. Song 31
+16. Song 33
+17. Song 36
+18. Song 36_2
+19. Utflod
+20. Kobra remix
+21. 225 renew
+22. Clip 413 - 2
+23. Clip 425
+24. Clip 426 - 2
+25. Clip 426 - 2_3
+1. Clip 432 - 2_2
+3. Clip 434
+4. Clip 436
+5. Clip 443 - 2
+6. Moo2
+7. Saettem 09082301
+8. Saettem 09082303
+9. 428
+10. Db2
+11. Eighteight
+12. Empo
+13. Flink
+14. Fynku
+15. Fynku 2
+16. Maid
+17. Moosh
+18. Moosh 2
+19. Oceio
+20. Ocelo
+21. Ocset
+22. Ocsett
+23. Octofio
+24. Octofoo
+25. Octwefio
+26. Octwese
+27. Or
+28. Phish
+29. Rane
+30. Sated
+31. Setwefio
+32. Seventytwo
+33. Zoo
+34. Zoo2
+35. Zoo3
+
 # 2010 
 _Sveg_
 # 2011 
