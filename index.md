@@ -34,6 +34,7 @@ _Tranås & Gävle_
 1. Light
 1. Uniform Noise Part V
 1. Kaisho
+1. Sounds of Benzeiten
 
 # 1999
 _Gävle & Tranås_
@@ -53,6 +54,7 @@ _Gävle & Tranås_
 1. Pearl River
 1. Sugar Basin
 1. Wiped Dream
+1. Night has a thousand eyes
 
 # 2000
 _Tranås_
@@ -102,6 +104,20 @@ _Tranås_
 42. Keep Out
 43. Kel
 44. Kestrel
+45. Maim
+46. Expatriate
+47. Midi
+48. Mist
+49. Painful
+50. Phat4
+51. Phat M (Phat 64 remix)
+52. Q2
+53. Q3
+54. Q5
+55. Rebel Summit
+56. Ryt
+
+
 
 # 2001
 _Tranås & Sveg_
