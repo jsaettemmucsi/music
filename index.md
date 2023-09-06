@@ -35,6 +35,8 @@ _Tranås & Gävle_
 1. Uniform Noise Part V
 1. Kaisho
 1. Sounds of Benzeiten
+1. The Wounded Land
+6. Tribal Pursuit
 
 # 1999
 _Gävle & Tranås_
@@ -55,6 +57,9 @@ _Gävle & Tranås_
 1. Sugar Basin
 1. Wiped Dream
 1. Night has a thousand eyes
+2. The Black Hole
+3. A Glacial Smile
+4. Fairminded
 
 # 2000
 _Tranås_
@@ -97,7 +102,6 @@ _Tranås_
 35. Dloop
 36. DOT
 37. e2
-38. Fairminded
 39. Mintomatic
 40. Joedah
 41. Joonkar
@@ -116,11 +120,24 @@ _Tranås_
 54. Q5
 55. Rebel Summit
 56. Ryt
-
-
+57. Static
+58. Drum stick
+60. Tread
+61. Trinity
+62. Uhm
+63. Uniqes
+64. Whee2
+65. Winds from the Past
+66. 
 
 # 2001
 _Tranås & Sveg_
+1. 114
+2. 116
+3. 122
+4. 815
+5. Kel2
+6. 
 
 # 2002
 _Sveg_
