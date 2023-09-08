@@ -324,7 +324,32 @@ _Sveg_
 7. arne
 8. asd
 9. axe
-10. 
+10. bacon
+11. baker
+12. bui
+13. bumba
+14. dia
+15. dia2
+16. eleb
+17. ere
+18. fa
+19. fdf
+20. fff
+21. For a While
+22. gates
+23. hoja
+24. hoja2
+25. hoja3
+26. ie
+27. in the air
+28. Joakim1
+29. Song 7_2
+30. livem2
+31. clip 422-2
+32. docile
+33. dr wax
+34. dr wax (zolorane remix)
+35. 
 
 # 2011 
 _Sveg_
